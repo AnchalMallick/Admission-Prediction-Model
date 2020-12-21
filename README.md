@@ -1,1 +1,1 @@
-# Admission-Prediction-Model
+This is an admission prediction model that predicts the chances of admit of a student provided his GRE Score,TOEFL score, University rating etc. This dataset was taken from Kaggle. An optimized algoritm fminunc is used instead of simple gradient descent. We are able to minimize the cost function to 0.002512. If we consider 0.5 or 50% to be the line between getting admitted and rejected, then we are able to get an accuracy upto 92.25%.
